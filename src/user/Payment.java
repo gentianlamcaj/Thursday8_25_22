@@ -1,9 +1,7 @@
 package user;
 
-public class Login {
+public class Payment {
     public static void main(String[] args) {
-        //test
-
-        //user complited
+        //payment case mad
     }
 }
